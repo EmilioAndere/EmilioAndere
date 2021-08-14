@@ -1,6 +1,10 @@
-<p align="center">Hi there my name is [Emilio Andere López](http://softtek.com) 👋</p>
+<h2 align="center">Hi there my name is [Emilio Andere López](http://softtek.com) 👋</h2>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 <p><em>Software Engineer at <a href="http://uptecamac.edomex.gob.mx/">Universidad Politecnica de Tecámac</a></em></p>
+
 [![Emilio A. López GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmilioAndere&show_icons=true&count_private=true)](https://github.com/EmilioAndere)
+
+###
 
 <!--
 **EmilioAndere/EmilioAndere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

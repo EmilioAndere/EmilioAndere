@@ -1,5 +1,9 @@
 ### Hi there my name is Emilio Andere López 👋
 
+### Github Stats
+
+[![Emilio A. López GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmilioAndere&show_icons=true&count_private=true)](https://github.com/EmilioAndere)
+
 <!--
 **EmilioAndere/EmilioAndere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
